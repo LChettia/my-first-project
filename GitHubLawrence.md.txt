@@ -1,3 +1,5 @@
-Name	Lawrence Chettiar
-Home Town Mumbai
-New Item  List new Item
+Name: Lawrence Chettiar
+Home: Town Mumbai
+New Item:  List new Item
+
+Favorite Sport: Football
